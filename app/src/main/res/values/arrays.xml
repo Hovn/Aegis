@@ -123,4 +123,27 @@
         <item>@string/export_format_aegis</item>
         <item>@string/export_format_google_auth_uri</item>
     </string-array>
+
+    <!--taken from: https://materialuicolors.co (level 700)-->
+    <array name="text_drawable_colors">
+        <item>#FFD32F2F</item>
+        <item>#FFC2185B</item>
+        <item>#FF7B1FA2</item>
+        <item>#FF512DA8</item>
+        <item>#FF303F9F</item>
+        <item>#FF1976D2</item>
+        <item>#FF0288D1</item>
+        <item>#FF0097A7</item>
+        <item>#FF00796B</item>
+        <item>#FF388E3C</item>
+        <item>#FF689F38</item>
+        <item>#FFAFB42B</item>
+        <item>#FFFBC02D</item>
+        <item>#FFFFA000</item>
+        <item>#FFF57C00</item>
+        <item>#FFE64A19</item>
+        <item>#FF5D4037</item>
+        <item>#FF616161</item>
+        <item>#FF455A64</item>
+    </array>
 </resources>
